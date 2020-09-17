@@ -1,1 +1,2 @@
-# Udgam-G
+#To find solutions to limit inconvenience in booking an appointment in government and/or private health centres. 
+#Description: We all know the horrendous trouble people go through while booking a medical appointment. People have to wait in long queues for hours, only to find that the doctor’s quota for that day is already done. To book for the next day, another queue awaits them. This website is an efficient solution to this huge problem.
